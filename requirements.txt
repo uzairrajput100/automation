@@ -1,0 +1,4 @@
+Requests==2.32.3
+selenium==4.23.1
+streamlit==1.35.0
+webdriver_manager==4.0.2
