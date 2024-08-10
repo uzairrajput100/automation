@@ -1,2 +1,2 @@
 # automation
-linkedin_automation
+linkedin messages automation
